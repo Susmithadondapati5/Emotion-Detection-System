@@ -1,4 +1,4 @@
-# FacialRecognitionUsingCNN
+# Emotion Detection System Using CNN 
 
 Emojis or avatars are ways to indicate nonverbal cues. These cues have become an essential part of online chatting, product review, brand emotion, and many more. It also lead to increasing data  science research dedicated to emoji-driven storytelling.
 
